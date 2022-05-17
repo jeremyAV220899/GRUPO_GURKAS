@@ -1,0 +1,1433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{23A36653-FB80-49B2-B012-5BE13370BA06}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>pl_Gurkas</RootNamespace>
+    <AssemblyName>GRUPO GURKAS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Jeremy AV\Desktop\PRO_ADM\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>\\192.168.1.13\compartida\SISTEMA_GURKAS\</UpdateUrl>
+    <ApplicationRevision>32</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>35A527AF227C5E346182E205065E97466E223D70</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>png %281%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>
+    </ManifestKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.5.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.5\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Google.Protobuf, Version=3.14.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.14.0\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.1.2.6\lib\net46\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.Streams.1.2.6\lib\net46\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.6.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Hash.xxHash.1.0.6\lib\net46\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.28.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data.EntityFramework, Version=8.0.28.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Web, Version=8.0.28.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySqlConnector, Version=2.0.0.0, Culture=neutral, PublicKeyToken=d33d3e53aa5f8c92, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySqlConnector.2.1.8\lib\net471\MySqlConnector.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.5.0.1\lib\net46\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.5.0.0\lib\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.3.0\lib\portable-net45+win8+wp8+wpa81\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Ubiety.Dns.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.28\lib\net452\Ubiety.Dns.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="ZstdNet, Version=1.4.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.28\lib\net452\ZstdNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Datos\Actualizar.cs" />
+    <Compile Include="Datos\actualizarmysql.cs" />
+    <Compile Include="Datos\agregarDatosMysql.cs" />
+    <Compile Include="Datos\AuditoriaModulos.cs" />
+    <Compile Include="Datos\CodEmplado.cs" />
+    <Compile Include="Datos\Conexiondbo.cs" />
+    <Compile Include="Datos\ConexionMysql.cs" />
+    <Compile Include="Datos\DatosUsuario.cs" />
+    <Compile Include="Datos\eliminar.cs" />
+    <Compile Include="Datos\EmpresaID.cs" />
+    <Compile Include="Datos\ExportarExcel.cs" />
+    <Compile Include="Datos\frmLlenadoDeDatosCentroControl.cs" />
+    <Compile Include="Datos\LimpiarDatos.cs" />
+    <Compile Include="Datos\llenadoDatosLogistica.cs" />
+    <Compile Include="Datos\LlenadoDatosPlanilla.cs" />
+    <Compile Include="Datos\LLenadoDatosRRHH.cs" />
+    <Compile Include="Datos\LlenadoDatosSucamec.cs" />
+    <Compile Include="Datos\LlenadoDeDatos.cs" />
+    <Compile Include="Datos\LlenadoDeDatosComercial.cs" />
+    <Compile Include="Datos\LlenadoDeDatosOperaciones.cs" />
+    <Compile Include="Datos\Login.cs" />
+    <Compile Include="Datos\registrar.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vista\Administrador\frmActualizarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Administrador\frmActualizarEmpleado.Designer.cs">
+      <DependentUpon>frmActualizarEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Administrador\frmAsignarUnidadUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Administrador\frmAsignarUnidadUsuario.Designer.cs">
+      <DependentUpon>frmAsignarUnidadUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Administrador\frmCambioContraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Administrador\frmCambioContraseña.Designer.cs">
+      <DependentUpon>frmCambioContraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Administrador\frmContrasena.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Administrador\frmContrasena.Designer.cs">
+      <DependentUpon>frmContrasena.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Administrador\frmCorreccionAsistencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Administrador\frmCorreccionAsistencia.Designer.cs">
+      <DependentUpon>frmCorreccionAsistencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Administrador\frmCreacionUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Administrador\frmCreacionUsuario.Designer.cs">
+      <DependentUpon>frmCreacionUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Andorid\frmAsistenciAndroid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Andorid\frmAsistenciAndroid.Designer.cs">
+      <DependentUpon>frmAsistenciAndroid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CentroControl\Android\frmMigrarAndroidAsistencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CentroControl\Android\frmMigrarAndroidAsistencia.Designer.cs">
+      <DependentUpon>frmMigrarAndroidAsistencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CentroControl\CargaDeDatos\frmBloqueosPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CentroControl\CargaDeDatos\frmBloqueosPersonal.Designer.cs">
+      <DependentUpon>frmBloqueosPersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CentroControl\ExportacionExcelCC\ExcelCC.cs" />
+    <Compile Include="Vista\CentroControl\frmAsistenciaPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CentroControl\frmAsistenciaPersonal.Designer.cs">
+      <DependentUpon>frmAsistenciaPersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CentroControl\frmRenganchePersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CentroControl\frmRenganchePersonal.Designer.cs">
+      <DependentUpon>frmRenganchePersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CentroControl\frmTardanza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CentroControl\frmTardanza.Designer.cs">
+      <DependentUpon>frmTardanza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CentroControl\ReporteAsistencia\frmAsistenciadePersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CentroControl\ReporteAsistencia\frmAsistenciadePersonal.Designer.cs">
+      <DependentUpon>frmAsistenciadePersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CentroControl\ReporteAsistencia\frmAsistenciaDePersonalDetallado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CentroControl\ReporteAsistencia\frmAsistenciaDePersonalDetallado.Designer.cs">
+      <DependentUpon>frmAsistenciaDePersonalDetallado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CentroControl\ReporteAsistencia\frmPersonalSinMarcacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CentroControl\ReporteAsistencia\frmPersonalSinMarcacion.Designer.cs">
+      <DependentUpon>frmPersonalSinMarcacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CentroControl\ReporteAsistencia\frmPersonalsistenciaporDia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CentroControl\ReporteAsistencia\frmPersonalsistenciaporDia.Designer.cs">
+      <DependentUpon>frmPersonalsistenciaporDia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CentroControl\ReporteCentroControl\fmrConsultaDeAsistenciaPorPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CentroControl\ReporteCentroControl\fmrConsultaDeAsistenciaPorPersonal.Designer.cs">
+      <DependentUpon>fmrConsultaDeAsistenciaPorPersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CentroControl\ReporteCentroControl\frmAsistenciaDetalladoPorEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CentroControl\ReporteCentroControl\frmAsistenciaDetalladoPorEmpleado.Designer.cs">
+      <DependentUpon>frmAsistenciaDetalladoPorEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CentroControl\ReporteCentroControl\frmBloqueosPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CentroControl\ReporteCentroControl\frmBloqueosPersonal.Designer.cs">
+      <DependentUpon>frmBloqueosPersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CentroControl\ReporteCentroControl\frmConsultaDeCantidadDeAsistenciaDeCadaSede.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CentroControl\ReporteCentroControl\frmConsultaDeCantidadDeAsistenciaDeCadaSede.Designer.cs">
+      <DependentUpon>frmConsultaDeCantidadDeAsistenciaDeCadaSede.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CentroControl\ReporteCentroControl\frmReportedeMarcacionpoFecahYturno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CentroControl\ReporteCentroControl\frmReportedeMarcacionpoFecahYturno.Designer.cs">
+      <DependentUpon>frmReportedeMarcacionpoFecahYturno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Comercial\frmCreacionSedes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Comercial\frmCreacionSedes.Designer.cs">
+      <DependentUpon>frmCreacionSedes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Comercial\frmCreacionUnidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Comercial\frmCreacionUnidad.Designer.cs">
+      <DependentUpon>frmCreacionUnidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Comercial\ReporteComercial\frmAsistenciaPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Comercial\ReporteComercial\frmAsistenciaPersonal.Designer.cs">
+      <DependentUpon>frmAsistenciaPersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Comercial\ReporteComercial\frmAsistenciaPersonalDetallado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Comercial\ReporteComercial\frmAsistenciaPersonalDetallado.Designer.cs">
+      <DependentUpon>frmAsistenciaPersonalDetallado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Comercial\ReporteComercial\frmConusltaAsistenciaPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Comercial\ReporteComercial\frmConusltaAsistenciaPersonal.Designer.cs">
+      <DependentUpon>frmConusltaAsistenciaPersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Comercial\ReporteComercial\frmDetalleEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Comercial\ReporteComercial\frmDetalleEmpleado.Designer.cs">
+      <DependentUpon>frmDetalleEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Contabilidad\frmPlanillaCompletaContabilidadResumen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Contabilidad\frmPlanillaCompletaContabilidadResumen.Designer.cs">
+      <DependentUpon>frmPlanillaCompletaContabilidadResumen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\ControlVistaFormulario.cs" />
+    <Compile Include="Vista\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Logistica\entrada\frmBuscarEntradaProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Logistica\entrada\frmBuscarEntradaProducto.Designer.cs">
+      <DependentUpon>frmBuscarEntradaProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Logistica\entrada\frmEntradaProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Logistica\entrada\frmEntradaProducto.Designer.cs">
+      <DependentUpon>frmEntradaProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Logistica\entrada\HistorialEntradaProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Logistica\entrada\HistorialEntradaProducto.Designer.cs">
+      <DependentUpon>HistorialEntradaProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Logistica\producto\frmNuevoProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Logistica\producto\frmNuevoProducto.Designer.cs">
+      <DependentUpon>frmNuevoProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Logistica\Proveedores\frmRegistrarProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Logistica\Proveedores\frmRegistrarProveedor.Designer.cs">
+      <DependentUpon>frmRegistrarProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Logistica\Reporte\frmReportePersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Logistica\Reporte\frmReportePersonal.Designer.cs">
+      <DependentUpon>frmReportePersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Logistica\salida\frmBuscarSalidaProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Logistica\salida\frmBuscarSalidaProducto.Designer.cs">
+      <DependentUpon>frmBuscarSalidaProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Logistica\salida\frmHistorialSalidaProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Logistica\salida\frmHistorialSalidaProducto.Designer.cs">
+      <DependentUpon>frmHistorialSalidaProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Logistica\salida\frmSalidaDeProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Logistica\salida\frmSalidaDeProducto.Designer.cs">
+      <DependentUpon>frmSalidaDeProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\MensajeEmergente\DialogForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\MensajeEmergente\DialogForm.Designer.cs">
+      <DependentUpon>DialogForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Operaciones\ReporteOperaciones\frmConsultadeAsistenciaPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Operaciones\ReporteOperaciones\frmConsultadeAsistenciaPersonal.Designer.cs">
+      <DependentUpon>frmConsultadeAsistenciaPersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Operaciones\ReporteOperaciones\frmEstadoPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Operaciones\ReporteOperaciones\frmEstadoPersonal.Designer.cs">
+      <DependentUpon>frmEstadoPersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Operaciones\ReporteOperaciones\frmReportePersonalGeneral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Operaciones\ReporteOperaciones\frmReportePersonalGeneral.Designer.cs">
+      <DependentUpon>frmReportePersonalGeneral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Operaciones\Sede\frmSede.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Operaciones\Sede\frmSede.Designer.cs">
+      <DependentUpon>frmSede.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Operaciones\Unidad\frmActivarUnidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Operaciones\Unidad\frmActivarUnidad.Designer.cs">
+      <DependentUpon>frmActivarUnidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\PantallaInicio\frmPantallaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\PantallaInicio\frmPantallaPrincipal.Designer.cs">
+      <DependentUpon>frmPantallaPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\AFP\frmActualizarComisionAFP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\AFP\frmActualizarComisionAFP.Designer.cs">
+      <DependentUpon>frmActualizarComisionAFP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\AFP\frmAFPFlujo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\AFP\frmAFPFlujo.Designer.cs">
+      <DependentUpon>frmAFPFlujo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\AFP\frmAFPMixta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\AFP\frmAFPMixta.Designer.cs">
+      <DependentUpon>frmAFPMixta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\BANCO\frmMacroBanco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\BANCO\frmMacroBanco.Designer.cs">
+      <DependentUpon>frmMacroBanco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\Bloqueos\frmCuadroDeBloqueos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\Bloqueos\frmCuadroDeBloqueos.Designer.cs">
+      <DependentUpon>frmCuadroDeBloqueos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\BoletaReporte\boleta.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\BoletaReporte\boleta1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>boleta.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\BoletaReporte\BoletaIndividual.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BoletaIndividual.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\BoletaReporte\BoletasMes.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\BoletaReporte\BoletasMes1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BoletasMes.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\CargaDeDatos\frmCargaDeDatosAsistencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\CargaDeDatos\frmCargaDeDatosAsistencia.Designer.cs">
+      <DependentUpon>frmCargaDeDatosAsistencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\CargaDeDatos\frmCargaDeDatosPlanillaDescuentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\CargaDeDatos\frmCargaDeDatosPlanillaDescuentos.Designer.cs">
+      <DependentUpon>frmCargaDeDatosPlanillaDescuentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\CargaDeDatos\frmPersonalNoRegistrado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\CargaDeDatos\frmPersonalNoRegistrado.Designer.cs">
+      <DependentUpon>frmPersonalNoRegistrado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\CTS\frmCalculoCTS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\CTS\frmCalculoCTS.Designer.cs">
+      <DependentUpon>frmCalculoCTS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\CTS\frmCargaDeDatosCTS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\CTS\frmCargaDeDatosCTS.Designer.cs">
+      <DependentUpon>frmCargaDeDatosCTS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\CTS\frmGuardarCTS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\CTS\frmGuardarCTS.Designer.cs">
+      <DependentUpon>frmGuardarCTS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\datosplame\xmlPlame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\datosplame\xmlPlame.Designer.cs">
+      <DependentUpon>xmlPlame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\ExportacionExcelPlanilla\ExcelPlanilla.cs" />
+    <Compile Include="Vista\Planilla\frmActualizarDatosLaboralesPlanilla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\frmActualizarDatosLaboralesPlanilla.Designer.cs">
+      <DependentUpon>frmActualizarDatosLaboralesPlanilla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\frmBoletaPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\frmBoletaPago.Designer.cs">
+      <DependentUpon>frmBoletaPago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\frmCalculoDeDescansoMedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\frmCalculoDeDescansoMedico.Designer.cs">
+      <DependentUpon>frmCalculoDeDescansoMedico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\frmCalculoDeOtrasLicencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\frmCalculoDeOtrasLicencia.Designer.cs">
+      <DependentUpon>frmCalculoDeOtrasLicencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\frmCalculoDeVacaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\frmCalculoDeVacaciones.Designer.cs">
+      <DependentUpon>frmCalculoDeVacaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\frmPlataformaCalculoPlanilla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\frmPlataformaCalculoPlanilla.Designer.cs">
+      <DependentUpon>frmPlataformaCalculoPlanilla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\frmRegistrarDatosLaborales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\frmRegistrarDatosLaborales.Designer.cs">
+      <DependentUpon>frmRegistrarDatosLaborales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\GRATIFICACION\frmaniomesgrati.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\GRATIFICACION\frmaniomesgrati.Designer.cs">
+      <DependentUpon>frmaniomesgrati.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\GRATIFICACION\frmCalculoGrati.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\GRATIFICACION\frmCalculoGrati.Designer.cs">
+      <DependentUpon>frmCalculoGrati.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\GRATIFICACION\frmGuardarGrati.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\GRATIFICACION\frmGuardarGrati.Designer.cs">
+      <DependentUpon>frmGuardarGrati.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\GuardarPlanilla\frmDatosPlanillaExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\GuardarPlanilla\frmDatosPlanillaExcel.Designer.cs">
+      <DependentUpon>frmDatosPlanillaExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\GuardarPlanilla\frmGuardarPlanilla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\GuardarPlanilla\frmGuardarPlanilla.Designer.cs">
+      <DependentUpon>frmGuardarPlanilla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\GuardarPlanilla\frmMesAnioPlanilla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\GuardarPlanilla\frmMesAnioPlanilla.Designer.cs">
+      <DependentUpon>frmMesAnioPlanilla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\HistorialPlanilla\frmHistorialCTS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\HistorialPlanilla\frmHistorialCTS.Designer.cs">
+      <DependentUpon>frmHistorialCTS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\HistorialPlanilla\frmHistorialDescansoMedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\HistorialPlanilla\frmHistorialDescansoMedico.Designer.cs">
+      <DependentUpon>frmHistorialDescansoMedico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\HistorialPlanilla\frmHistorialGrati.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\HistorialPlanilla\frmHistorialGrati.Designer.cs">
+      <DependentUpon>frmHistorialGrati.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\HistorialPlanilla\frmHistorialOtrasLicencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\HistorialPlanilla\frmHistorialOtrasLicencias.Designer.cs">
+      <DependentUpon>frmHistorialOtrasLicencias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\HistorialPlanilla\frmHistorialPlanillaDiasLaborados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\HistorialPlanilla\frmHistorialPlanillaDiasLaborados.Designer.cs">
+      <DependentUpon>frmHistorialPlanillaDiasLaborados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\HistorialPlanilla\frmHistorialPlanillaVacaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\HistorialPlanilla\frmHistorialPlanillaVacaciones.Designer.cs">
+      <DependentUpon>frmHistorialPlanillaVacaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\MensajeConfirmacion\frmGuardarPlanilla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\MensajeConfirmacion\frmGuardarPlanilla.Designer.cs">
+      <DependentUpon>frmGuardarPlanilla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\Plame\frmPlataformaPlame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\Plame\frmPlataformaPlame.Designer.cs">
+      <DependentUpon>frmPlataformaPlame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\ReportePlanilla\frmBajasPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\ReportePlanilla\frmBajasPersonal.Designer.cs">
+      <DependentUpon>frmBajasPersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\ReportePlanilla\frmDatosGeneralesPlanilla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\ReportePlanilla\frmDatosGeneralesPlanilla.Designer.cs">
+      <DependentUpon>frmDatosGeneralesPlanilla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\ReportePlanilla\frmHistorialDatosEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\ReportePlanilla\frmHistorialDatosEmpleado.Designer.cs">
+      <DependentUpon>frmHistorialDatosEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\ReportePlanilla\frmPagoTurnosEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\ReportePlanilla\frmPagoTurnosEmpleados.Designer.cs">
+      <DependentUpon>frmPagoTurnosEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\ReportePlanilla\frmReporteAsistenciaPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\ReportePlanilla\frmReporteAsistenciaPersonal.Designer.cs">
+      <DependentUpon>frmReporteAsistenciaPersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Planilla\SueldoEmpleado\frmSueldoEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Planilla\SueldoEmpleado\frmSueldoEmpleado.Designer.cs">
+      <DependentUpon>frmSueldoEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Principal\frmPrincialAdministrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Principal\frmPrincialAdministrador.Designer.cs">
+      <DependentUpon>frmPrincialAdministrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Principal\frmPrincipalConsorcioGurkas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Principal\frmPrincipalConsorcioGurkas.Designer.cs">
+      <DependentUpon>frmPrincipalConsorcioGurkas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Principal\frmPrincipalGrupoGurkas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Principal\frmPrincipalGrupoGurkas.Designer.cs">
+      <DependentUpon>frmPrincipalGrupoGurkas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\RRHH\CargaDatos\frmCargaDatosIngresantesPlanillas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\RRHH\CargaDatos\frmCargaDatosIngresantesPlanillas.Designer.cs">
+      <DependentUpon>frmCargaDatosIngresantesPlanillas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\RRHH\frmActualizarEstadoPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\RRHH\frmActualizarEstadoPersonal.Designer.cs">
+      <DependentUpon>frmActualizarEstadoPersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\RRHH\frmMoverEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\RRHH\frmMoverEmpresa.Designer.cs">
+      <DependentUpon>frmMoverEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\RRHH\frmRegistrarDatosLaboralesRRHH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\RRHH\frmRegistrarDatosLaboralesRRHH.Designer.cs">
+      <DependentUpon>frmRegistrarDatosLaboralesRRHH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\RRHH\frmRegistroDatosFamiliarez.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\RRHH\frmRegistroDatosFamiliarez.Designer.cs">
+      <DependentUpon>frmRegistroDatosFamiliarez.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\RRHH\frmRegistroDatosPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\RRHH\frmRegistroDatosPersonal.Designer.cs">
+      <DependentUpon>frmRegistroDatosPersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\RRHH\frmReporteRRHHPersonalActivo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\RRHH\frmReporteRRHHPersonalActivo.Designer.cs">
+      <DependentUpon>frmReporteRRHHPersonalActivo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\RRHH\Postulante\frmPostulante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\RRHH\Postulante\frmPostulante.Designer.cs">
+      <DependentUpon>frmPostulante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\RRHH\ReportesRRHH\frmAsistenciaGeneralPersonalPorSede.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\RRHH\ReportesRRHH\frmAsistenciaGeneralPersonalPorSede.Designer.cs">
+      <DependentUpon>frmAsistenciaGeneralPersonalPorSede.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\RRHH\ReportesRRHH\frmAsistenciaGneralPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\RRHH\ReportesRRHH\frmAsistenciaGneralPersonal.Designer.cs">
+      <DependentUpon>frmAsistenciaGneralPersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\RRHH\ReportesRRHH\frmAsistenciaPersonaIndividual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\RRHH\ReportesRRHH\frmAsistenciaPersonaIndividual.Designer.cs">
+      <DependentUpon>frmAsistenciaPersonaIndividual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\RRHH\ReportesRRHH\frmAsistenciaPersonalPorUnidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\RRHH\ReportesRRHH\frmAsistenciaPersonalPorUnidad.Designer.cs">
+      <DependentUpon>frmAsistenciaPersonalPorUnidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\RRHH\ReportesRRHH\frmEstaturaPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\RRHH\ReportesRRHH\frmEstaturaPersonal.Designer.cs">
+      <DependentUpon>frmEstaturaPersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\RRHH\ReportesRRHH\frmPersonalPorEdad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\RRHH\ReportesRRHH\frmPersonalPorEdad.Designer.cs">
+      <DependentUpon>frmPersonalPorEdad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\RRHH\ReportesRRHH\frmPersonalPorEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\RRHH\ReportesRRHH\frmPersonalPorEmpresa.Designer.cs">
+      <DependentUpon>frmPersonalPorEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\RRHH\ReportesRRHH\frmPersonalPorFechaIngreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\RRHH\ReportesRRHH\frmPersonalPorFechaIngreso.Designer.cs">
+      <DependentUpon>frmPersonalPorFechaIngreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\RRHH\ReportesRRHH\frmPersonalPorSede.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\RRHH\ReportesRRHH\frmPersonalPorSede.Designer.cs">
+      <DependentUpon>frmPersonalPorSede.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\RRHH\ReportesRRHH\frmPersonalPorUnidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\RRHH\ReportesRRHH\frmPersonalPorUnidad.Designer.cs">
+      <DependentUpon>frmPersonalPorUnidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\RRHH\ReportesRRHH\frmReporteGenrenalPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\RRHH\ReportesRRHH\frmReporteGenrenalPersonal.Designer.cs">
+      <DependentUpon>frmReporteGenrenalPersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\RRHH\ReportesRRHH\frmTurnoEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\RRHH\ReportesRRHH\frmTurnoEmpleado.Designer.cs">
+      <DependentUpon>frmTurnoEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\RRHH\RRHHC4\frmRegistroC4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\RRHH\RRHHC4\frmRegistroC4.Designer.cs">
+      <DependentUpon>frmRegistroC4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Sucamec\frmPersonalConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Sucamec\frmPersonalConsulta.Designer.cs">
+      <DependentUpon>frmPersonalConsulta.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Vista\Administrador\frmActualizarEmpleado.resx">
+      <DependentUpon>frmActualizarEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Administrador\frmAsignarUnidadUsuario.resx">
+      <DependentUpon>frmAsignarUnidadUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Administrador\frmCambioContraseña.resx">
+      <DependentUpon>frmCambioContraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Administrador\frmContrasena.resx">
+      <DependentUpon>frmContrasena.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Administrador\frmCorreccionAsistencia.resx">
+      <DependentUpon>frmCorreccionAsistencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Administrador\frmCreacionUsuario.resx">
+      <DependentUpon>frmCreacionUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Andorid\frmAsistenciAndroid.resx">
+      <DependentUpon>frmAsistenciAndroid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CentroControl\Android\frmMigrarAndroidAsistencia.resx">
+      <DependentUpon>frmMigrarAndroidAsistencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CentroControl\CargaDeDatos\frmBloqueosPersonal.resx">
+      <DependentUpon>frmBloqueosPersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CentroControl\frmAsistenciaPersonal.resx">
+      <DependentUpon>frmAsistenciaPersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CentroControl\frmRenganchePersonal.resx">
+      <DependentUpon>frmRenganchePersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CentroControl\frmTardanza.resx">
+      <DependentUpon>frmTardanza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CentroControl\ReporteAsistencia\frmAsistenciadePersonal.resx">
+      <DependentUpon>frmAsistenciadePersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CentroControl\ReporteAsistencia\frmAsistenciaDePersonalDetallado.resx">
+      <DependentUpon>frmAsistenciaDePersonalDetallado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CentroControl\ReporteAsistencia\frmPersonalSinMarcacion.resx">
+      <DependentUpon>frmPersonalSinMarcacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CentroControl\ReporteAsistencia\frmPersonalsistenciaporDia.resx">
+      <DependentUpon>frmPersonalsistenciaporDia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CentroControl\ReporteCentroControl\fmrConsultaDeAsistenciaPorPersonal.resx">
+      <DependentUpon>fmrConsultaDeAsistenciaPorPersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CentroControl\ReporteCentroControl\frmAsistenciaDetalladoPorEmpleado.resx">
+      <DependentUpon>frmAsistenciaDetalladoPorEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CentroControl\ReporteCentroControl\frmBloqueosPersonal.resx">
+      <DependentUpon>frmBloqueosPersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CentroControl\ReporteCentroControl\frmConsultaDeCantidadDeAsistenciaDeCadaSede.resx">
+      <DependentUpon>frmConsultaDeCantidadDeAsistenciaDeCadaSede.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CentroControl\ReporteCentroControl\frmReportedeMarcacionpoFecahYturno.resx">
+      <DependentUpon>frmReportedeMarcacionpoFecahYturno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Comercial\frmCreacionSedes.resx">
+      <DependentUpon>frmCreacionSedes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Comercial\frmCreacionUnidad.resx">
+      <DependentUpon>frmCreacionUnidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Comercial\ReporteComercial\frmAsistenciaPersonal.resx">
+      <DependentUpon>frmAsistenciaPersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Comercial\ReporteComercial\frmAsistenciaPersonalDetallado.resx">
+      <DependentUpon>frmAsistenciaPersonalDetallado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Comercial\ReporteComercial\frmConusltaAsistenciaPersonal.resx">
+      <DependentUpon>frmConusltaAsistenciaPersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Comercial\ReporteComercial\frmDetalleEmpleado.resx">
+      <DependentUpon>frmDetalleEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Contabilidad\frmPlanillaCompletaContabilidadResumen.resx">
+      <DependentUpon>frmPlanillaCompletaContabilidadResumen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Logistica\entrada\frmBuscarEntradaProducto.resx">
+      <DependentUpon>frmBuscarEntradaProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Logistica\entrada\frmEntradaProducto.resx">
+      <DependentUpon>frmEntradaProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Logistica\entrada\HistorialEntradaProducto.resx">
+      <DependentUpon>HistorialEntradaProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Logistica\producto\frmNuevoProducto.resx">
+      <DependentUpon>frmNuevoProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Logistica\Proveedores\frmRegistrarProveedor.resx">
+      <DependentUpon>frmRegistrarProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Logistica\Reporte\frmReportePersonal.resx">
+      <DependentUpon>frmReportePersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Logistica\salida\frmBuscarSalidaProducto.resx">
+      <DependentUpon>frmBuscarSalidaProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Logistica\salida\frmHistorialSalidaProducto.resx">
+      <DependentUpon>frmHistorialSalidaProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Logistica\salida\frmSalidaDeProducto.resx">
+      <DependentUpon>frmSalidaDeProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\MensajeEmergente\DialogForm.resx">
+      <DependentUpon>DialogForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Operaciones\ReporteOperaciones\frmConsultadeAsistenciaPersonal.resx">
+      <DependentUpon>frmConsultadeAsistenciaPersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Operaciones\ReporteOperaciones\frmEstadoPersonal.resx">
+      <DependentUpon>frmEstadoPersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Operaciones\ReporteOperaciones\frmReportePersonalGeneral.resx">
+      <DependentUpon>frmReportePersonalGeneral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Operaciones\Sede\frmSede.resx">
+      <DependentUpon>frmSede.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Operaciones\Unidad\frmActivarUnidad.resx">
+      <DependentUpon>frmActivarUnidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\PantallaInicio\frmPantallaPrincipal.resx">
+      <DependentUpon>frmPantallaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\AFP\frmActualizarComisionAFP.resx">
+      <DependentUpon>frmActualizarComisionAFP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\AFP\frmAFPFlujo.resx">
+      <DependentUpon>frmAFPFlujo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\AFP\frmAFPMixta.resx">
+      <DependentUpon>frmAFPMixta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\BANCO\frmMacroBanco.resx">
+      <DependentUpon>frmMacroBanco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\Bloqueos\frmCuadroDeBloqueos.resx">
+      <DependentUpon>frmCuadroDeBloqueos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\BoletaReporte\boleta.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>boleta1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\BoletaReporte\BoletaIndividual.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BoletaIndividual.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\BoletaReporte\BoletasMes.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BoletasMes1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\CargaDeDatos\frmCargaDeDatosAsistencia.resx">
+      <DependentUpon>frmCargaDeDatosAsistencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\CargaDeDatos\frmCargaDeDatosPlanillaDescuentos.resx">
+      <DependentUpon>frmCargaDeDatosPlanillaDescuentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\CargaDeDatos\frmPersonalNoRegistrado.resx">
+      <DependentUpon>frmPersonalNoRegistrado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\CTS\frmCalculoCTS.resx">
+      <DependentUpon>frmCalculoCTS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\CTS\frmCargaDeDatosCTS.resx">
+      <DependentUpon>frmCargaDeDatosCTS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\CTS\frmGuardarCTS.resx">
+      <DependentUpon>frmGuardarCTS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\datosplame\xmlPlame.resx">
+      <DependentUpon>xmlPlame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\frmActualizarDatosLaboralesPlanilla.resx">
+      <DependentUpon>frmActualizarDatosLaboralesPlanilla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\frmBoletaPago.resx">
+      <DependentUpon>frmBoletaPago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\frmCalculoDeDescansoMedico.resx">
+      <DependentUpon>frmCalculoDeDescansoMedico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\frmCalculoDeOtrasLicencia.resx">
+      <DependentUpon>frmCalculoDeOtrasLicencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\frmCalculoDeVacaciones.resx">
+      <DependentUpon>frmCalculoDeVacaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\frmPlataformaCalculoPlanilla.resx">
+      <DependentUpon>frmPlataformaCalculoPlanilla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\frmRegistrarDatosLaborales.resx">
+      <DependentUpon>frmRegistrarDatosLaborales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\GRATIFICACION\frmaniomesgrati.resx">
+      <DependentUpon>frmaniomesgrati.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\GRATIFICACION\frmCalculoGrati.resx">
+      <DependentUpon>frmCalculoGrati.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\GRATIFICACION\frmGuardarGrati.resx">
+      <DependentUpon>frmGuardarGrati.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\GuardarPlanilla\frmDatosPlanillaExcel.resx">
+      <DependentUpon>frmDatosPlanillaExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\GuardarPlanilla\frmGuardarPlanilla.resx">
+      <DependentUpon>frmGuardarPlanilla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\GuardarPlanilla\frmMesAnioPlanilla.resx">
+      <DependentUpon>frmMesAnioPlanilla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\HistorialPlanilla\frmHistorialCTS.resx">
+      <DependentUpon>frmHistorialCTS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\HistorialPlanilla\frmHistorialDescansoMedico.resx">
+      <DependentUpon>frmHistorialDescansoMedico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\HistorialPlanilla\frmHistorialGrati.resx">
+      <DependentUpon>frmHistorialGrati.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\HistorialPlanilla\frmHistorialOtrasLicencias.resx">
+      <DependentUpon>frmHistorialOtrasLicencias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\HistorialPlanilla\frmHistorialPlanillaDiasLaborados.resx">
+      <DependentUpon>frmHistorialPlanillaDiasLaborados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\HistorialPlanilla\frmHistorialPlanillaVacaciones.resx">
+      <DependentUpon>frmHistorialPlanillaVacaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\MensajeConfirmacion\frmGuardarPlanilla.resx">
+      <DependentUpon>frmGuardarPlanilla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\Plame\frmPlataformaPlame.resx">
+      <DependentUpon>frmPlataformaPlame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\ReportePlanilla\frmBajasPersonal.resx">
+      <DependentUpon>frmBajasPersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\ReportePlanilla\frmDatosGeneralesPlanilla.resx">
+      <DependentUpon>frmDatosGeneralesPlanilla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\ReportePlanilla\frmHistorialDatosEmpleado.resx">
+      <DependentUpon>frmHistorialDatosEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\ReportePlanilla\frmPagoTurnosEmpleados.resx">
+      <DependentUpon>frmPagoTurnosEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\ReportePlanilla\frmReporteAsistenciaPersonal.resx">
+      <DependentUpon>frmReporteAsistenciaPersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Planilla\SueldoEmpleado\frmSueldoEmpleado.resx">
+      <DependentUpon>frmSueldoEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Principal\frmPrincialAdministrador.resx">
+      <DependentUpon>frmPrincialAdministrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Principal\frmPrincipalConsorcioGurkas.resx">
+      <DependentUpon>frmPrincipalConsorcioGurkas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Principal\frmPrincipalGrupoGurkas.resx">
+      <DependentUpon>frmPrincipalGrupoGurkas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\RRHH\CargaDatos\frmCargaDatosIngresantesPlanillas.resx">
+      <DependentUpon>frmCargaDatosIngresantesPlanillas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\RRHH\frmActualizarEstadoPersonal.resx">
+      <DependentUpon>frmActualizarEstadoPersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\RRHH\frmMoverEmpresa.resx">
+      <DependentUpon>frmMoverEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\RRHH\frmRegistrarDatosLaboralesRRHH.resx">
+      <DependentUpon>frmRegistrarDatosLaboralesRRHH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\RRHH\frmRegistroDatosFamiliarez.resx">
+      <DependentUpon>frmRegistroDatosFamiliarez.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\RRHH\frmRegistroDatosPersonal.resx">
+      <DependentUpon>frmRegistroDatosPersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\RRHH\frmReporteRRHHPersonalActivo.resx">
+      <DependentUpon>frmReporteRRHHPersonalActivo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\RRHH\Postulante\frmPostulante.resx">
+      <DependentUpon>frmPostulante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\RRHH\ReportesRRHH\frmAsistenciaGeneralPersonalPorSede.resx">
+      <DependentUpon>frmAsistenciaGeneralPersonalPorSede.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\RRHH\ReportesRRHH\frmAsistenciaGneralPersonal.resx">
+      <DependentUpon>frmAsistenciaGneralPersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\RRHH\ReportesRRHH\frmAsistenciaPersonaIndividual.resx">
+      <DependentUpon>frmAsistenciaPersonaIndividual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\RRHH\ReportesRRHH\frmAsistenciaPersonalPorUnidad.resx">
+      <DependentUpon>frmAsistenciaPersonalPorUnidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\RRHH\ReportesRRHH\frmEstaturaPersonal.resx">
+      <DependentUpon>frmEstaturaPersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\RRHH\ReportesRRHH\frmPersonalPorEdad.resx">
+      <DependentUpon>frmPersonalPorEdad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\RRHH\ReportesRRHH\frmPersonalPorEmpresa.resx">
+      <DependentUpon>frmPersonalPorEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\RRHH\ReportesRRHH\frmPersonalPorFechaIngreso.resx">
+      <DependentUpon>frmPersonalPorFechaIngreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\RRHH\ReportesRRHH\frmPersonalPorSede.resx">
+      <DependentUpon>frmPersonalPorSede.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\RRHH\ReportesRRHH\frmPersonalPorUnidad.resx">
+      <DependentUpon>frmPersonalPorUnidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\RRHH\ReportesRRHH\frmReporteGenrenalPersonal.resx">
+      <DependentUpon>frmReporteGenrenalPersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\RRHH\ReportesRRHH\frmTurnoEmpleado.resx">
+      <DependentUpon>frmTurnoEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\RRHH\RRHHC4\frmRegistroC4.resx">
+      <DependentUpon>frmRegistroC4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Sucamec\frmPersonalConsulta.resx">
+      <DependentUpon>frmPersonalConsulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="pl_Gurkas_2_TemporaryKey.pfx" />
+    <None Include="pl_Gurkas_3_TemporaryKey.pfx" />
+    <None Include="pl_Gurkas_4_TemporaryKey.pfx" />
+    <None Include="pl_Gurkas_5_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agente.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MiniaturaYoutube.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GurkasInicio.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_gurkas.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png %281%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png iconb.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GGPrincipal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_trabajador_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apoyo_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asistecnia_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asistencias_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boleta_PAGO_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boletapago_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar_afp_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar_empleado_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cerrar_sesion_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close_Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comercial.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\consultarPersonal_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contabilidad_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\date_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_docuemnt_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_USer_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empleado_update_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\estatura_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Excel_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\familia_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gurkas.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gurkas-triangle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\his_user_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\historia_user_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icono-Sucamec-1 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icono-Sucamec-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_archive_folder_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_csv_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-validare-300 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LoginUser_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minimize_Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nuevo_emplado_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\operaciones.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paswprdGurkas_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\personal_baja_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\planilla_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reclutamiento_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RENGANCHYE_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reportes_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salir_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salir_empleado_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_32.png_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seleccion_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\time_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trabajador_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\turno_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update_password_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vercion_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="png %281%29.ico" />
+    <Content Include="png iconb.ico" />
+    <None Include="Resources\SALIDA_64.png" />
+    <None Include="Resources\SALIDA_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Vista\Logistica\Inventariado\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,1089 @@
+E:\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\pl_Gurkas.exe.config
+E:\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\pl_Gurkas.exe
+E:\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\pl_Gurkas.pdb
+E:\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.AssemblyReference.cache
+E:\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Form1.resources
+E:\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Properties.Resources.resources
+E:\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.GenerateResource.cache
+E:\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.CoreCompileInputs.cache
+E:\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.exe
+E:\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.pdb
+E:\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.frmLogin.resources
+E:\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincipalConsorcioGurkas.resources
+E:\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincipalGrupoGurkas.resources
+E:\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistroDatosPersonal.resources
+E:\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.MensajeEmergente.DialogForm.resources
+E:\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorSede.resources
+E:\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorEdad.resources
+E:\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorEmpresa.resources
+E:\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorFechaIngreso.resources
+C:\Users\user\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\pl_Gurkas.exe.config
+C:\Users\user\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\pl_Gurkas.exe
+C:\Users\user\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\pl_Gurkas.pdb
+C:\Users\user\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Form1.resources
+C:\Users\user\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Properties.Resources.resources
+C:\Users\user\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.frmLogin.resources
+C:\Users\user\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.MensajeEmergente.DialogForm.resources
+C:\Users\user\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincipalConsorcioGurkas.resources
+C:\Users\user\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincipalGrupoGurkas.resources
+C:\Users\user\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistroDatosPersonal.resources
+C:\Users\user\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaPersonaIndividual.resources
+C:\Users\user\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorEdad.resources
+C:\Users\user\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorEmpresa.resources
+C:\Users\user\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorFechaIngreso.resources
+C:\Users\user\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorSede.resources
+C:\Users\user\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.GenerateResource.cache
+C:\Users\user\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.exe
+C:\Users\user\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.pdb
+C:\Users\user\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.frmCreacionUnidad.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Form1.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Properties.Resources.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.frmCreacionUnidad.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.frmLogin.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.MensajeEmergente.DialogForm.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincipalConsorcioGurkas.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincipalGrupoGurkas.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistroDatosPersonal.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaPersonaIndividual.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorEdad.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorEmpresa.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorFechaIngreso.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorSede.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.GenerateResource.cache
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.frmCreacionSedes.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCreacionUsuario.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmAsistenciaPersonal.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmActualizarEmpleado.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCambioContraseña.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmAsignarUnidadUsuario.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\pl_Gurkas.exe.config
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\pl_Gurkas.exe
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\pl_Gurkas.pdb
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.AssemblyReference.cache
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Form1.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Properties.Resources.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmActualizarEmpleado.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmAsignarUnidadUsuario.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCambioContraseña.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCreacionUsuario.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmAsistenciaPersonal.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.frmCreacionSedes.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.frmCreacionUnidad.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.frmLogin.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.MensajeEmergente.DialogForm.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincipalConsorcioGurkas.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincipalGrupoGurkas.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistroDatosPersonal.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaPersonaIndividual.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorEdad.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorEmpresa.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorFechaIngreso.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorSede.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.GenerateResource.cache
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.CoreCompileInputs.cache
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.exe
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.pdb
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmRenganchePersonal.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaGneralPersonal.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmEstaturaPersonal.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmTurnoEmpleado.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaGeneralPersonalPorSede.resources
+E:\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaPersonalPorUnidad.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\pl_Gurkas.exe.config
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\pl_Gurkas.exe
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\pl_Gurkas.pdb
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.AssemblyReference.cache
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Form1.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Properties.Resources.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmActualizarEmpleado.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmAsignarUnidadUsuario.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCambioContraseña.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCreacionUsuario.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmAsistenciaPersonal.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmRenganchePersonal.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.frmCreacionSedes.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.frmCreacionUnidad.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.frmLogin.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.MensajeEmergente.DialogForm.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmActualizarComisionAFP.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmAFPFlujo.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmAFPMixta.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmCargaDeDatosAsistencia.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmPlataformaCalculoPlanilla.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmRegistrarDatosLaborales.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmReporteAsistenciaPersonal.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincipalConsorcioGurkas.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincipalGrupoGurkas.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmMoverEmpresa.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistrarDatosLaboralesRRHH.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistroDatosFamiliarez.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistroDatosPersonal.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaGeneralPersonalPorSede.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaGneralPersonal.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaPersonaIndividual.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaPersonalPorUnidad.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmEstaturaPersonal.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorEdad.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorEmpresa.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorFechaIngreso.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorSede.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorUnidad.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmReporteGenrenalPersonal.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmTurnoEmpleado.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.GenerateResource.cache
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.exe
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.pdb
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmConsultaDeCantidadDeAsistenciaDeCadaSede.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmReportedeMarcacionpoFecahYturno.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.fmrConsultaDeAsistenciaPorPersonal.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmAsistenciaDetalladoPorEmpleado.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmPersonalsistenciaporDia.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmPersonalSinMarcacion.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmAsistenciadePersonal.resources
+C:\Users\jerem\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmAsistenciaDePersonalDetallado.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\pl_Gurkas.exe.config
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\pl_Gurkas.exe
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\pl_Gurkas.pdb
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Form1.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Properties.Resources.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmActualizarEmpleado.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmAsignarUnidadUsuario.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCambioContraseña.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCorreccionAsistencia.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCreacionUsuario.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmAsistenciaPersonal.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmRenganchePersonal.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmTardanza.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmAsistenciadePersonal.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmAsistenciaDePersonalDetallado.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmPersonalSinMarcacion.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmPersonalsistenciaporDia.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.fmrConsultaDeAsistenciaPorPersonal.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmAsistenciaDetalladoPorEmpleado.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmConsultaDeCantidadDeAsistenciaDeCadaSede.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmReportedeMarcacionpoFecahYturno.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.frmCreacionSedes.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.frmCreacionUnidad.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmAsistenciaPersonal.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmAsistenciaPersonalDetallado.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmConusltaAsistenciaPersonal.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmDetalleEmpleado.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.frmLogin.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.MensajeEmergente.DialogForm.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.ReporteOperaciones.frmConsultadeAsistenciaPersonal.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.Sede.frmSede.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.Unidad.frmActivarUnidad.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.PantallaInicio.frmPantallaPrincipal.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmActualizarComisionAFP.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmAFPFlujo.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmAFPMixta.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmCargaDeDatosAsistencia.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmCargaDeDatosPlanillaDescuentos.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmPersonalNoRegistrado.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmActualizarDatosLaboralesPlanilla.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmPlataformaCalculoPlanilla.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmRegistrarDatosLaborales.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmBajasPersonal.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmDatosGeneralesPlanilla.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmHistorialDatosEmpleado.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmReporteAsistenciaPersonal.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincipalConsorcioGurkas.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincipalGrupoGurkas.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmMoverEmpresa.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistrarDatosLaboralesRRHH.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistroDatosFamiliarez.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistroDatosPersonal.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaGeneralPersonalPorSede.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaGneralPersonal.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaPersonaIndividual.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaPersonalPorUnidad.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmEstaturaPersonal.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorEdad.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorEmpresa.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorFechaIngreso.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorSede.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorUnidad.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmReporteGenrenalPersonal.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmTurnoEmpleado.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.exe
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.pdb
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.MensajeConfirmacion.frmGuardarPlanilla.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialPlanillaDiasLaborados.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmCalculoDeVacaciones.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmCalculoDeDescansoMedico.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmCalculoDeOtrasLicencia.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialPlanillaVacaciones.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialDescansoMedico.resources
+C:\Users\user\Desktop\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialOtrasLicencias.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\pl_Gurkas.exe.config
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\pl_Gurkas.exe
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\pl_Gurkas.pdb
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Form1.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Properties.Resources.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmActualizarEmpleado.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmAsignarUnidadUsuario.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCambioContraseña.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCorreccionAsistencia.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCreacionUsuario.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmAsistenciaPersonal.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmRenganchePersonal.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmTardanza.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmAsistenciadePersonal.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmAsistenciaDePersonalDetallado.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmPersonalSinMarcacion.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmPersonalsistenciaporDia.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.fmrConsultaDeAsistenciaPorPersonal.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmAsistenciaDetalladoPorEmpleado.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmConsultaDeCantidadDeAsistenciaDeCadaSede.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmReportedeMarcacionpoFecahYturno.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.frmCreacionSedes.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.frmCreacionUnidad.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmAsistenciaPersonal.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmAsistenciaPersonalDetallado.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmConusltaAsistenciaPersonal.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmDetalleEmpleado.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.frmLogin.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.MensajeEmergente.DialogForm.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.ReporteOperaciones.frmConsultadeAsistenciaPersonal.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.Sede.frmSede.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.Unidad.frmActivarUnidad.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.PantallaInicio.frmPantallaPrincipal.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmActualizarComisionAFP.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmAFPFlujo.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmAFPMixta.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmCargaDeDatosAsistencia.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmCargaDeDatosPlanillaDescuentos.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmPersonalNoRegistrado.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmActualizarDatosLaboralesPlanilla.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmCalculoDeDescansoMedico.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmCalculoDeOtrasLicencia.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmCalculoDeVacaciones.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmPlataformaCalculoPlanilla.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmRegistrarDatosLaborales.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialDescansoMedico.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialOtrasLicencias.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialPlanillaDiasLaborados.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialPlanillaVacaciones.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.MensajeConfirmacion.frmGuardarPlanilla.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.Plame.frmPlataformaPlame.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmBajasPersonal.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmDatosGeneralesPlanilla.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmHistorialDatosEmpleado.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmReporteAsistenciaPersonal.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincipalConsorcioGurkas.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincipalGrupoGurkas.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmMoverEmpresa.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistrarDatosLaboralesRRHH.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistroDatosFamiliarez.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistroDatosPersonal.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaGeneralPersonalPorSede.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaGneralPersonal.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaPersonaIndividual.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaPersonalPorUnidad.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmEstaturaPersonal.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorEdad.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorEmpresa.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorFechaIngreso.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorSede.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorUnidad.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmReporteGenrenalPersonal.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmTurnoEmpleado.resources
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.exe
+C:\Users\user\Desktop\Sistemas v2\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.pdb
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Form1.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Properties.Resources.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmActualizarEmpleado.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmAsignarUnidadUsuario.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCambioContraseña.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCorreccionAsistencia.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCreacionUsuario.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmAsistenciaPersonal.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmRenganchePersonal.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmTardanza.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmAsistenciadePersonal.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmAsistenciaDePersonalDetallado.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmPersonalSinMarcacion.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmPersonalsistenciaporDia.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.fmrConsultaDeAsistenciaPorPersonal.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmAsistenciaDetalladoPorEmpleado.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmConsultaDeCantidadDeAsistenciaDeCadaSede.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmReportedeMarcacionpoFecahYturno.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.frmCreacionSedes.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.frmCreacionUnidad.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmAsistenciaPersonal.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmAsistenciaPersonalDetallado.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmConusltaAsistenciaPersonal.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmDetalleEmpleado.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.frmLogin.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.MensajeEmergente.DialogForm.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.ReporteOperaciones.frmConsultadeAsistenciaPersonal.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.Sede.frmSede.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.Unidad.frmActivarUnidad.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.PantallaInicio.frmPantallaPrincipal.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmActualizarComisionAFP.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmAFPFlujo.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmAFPMixta.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.BANCO.frmMacroBanco.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmCargaDeDatosAsistencia.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmCargaDeDatosPlanillaDescuentos.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmPersonalNoRegistrado.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmActualizarDatosLaboralesPlanilla.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmBoletaPago.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmCalculoDeDescansoMedico.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmCalculoDeOtrasLicencia.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmCalculoDeVacaciones.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmPlataformaCalculoPlanilla.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmRegistrarDatosLaborales.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialDescansoMedico.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialOtrasLicencias.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialPlanillaDiasLaborados.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialPlanillaVacaciones.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.MensajeConfirmacion.frmGuardarPlanilla.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.Plame.frmPlataformaPlame.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmBajasPersonal.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmDatosGeneralesPlanilla.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmHistorialDatosEmpleado.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmReporteAsistenciaPersonal.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincipalConsorcioGurkas.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincipalGrupoGurkas.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmMoverEmpresa.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistrarDatosLaboralesRRHH.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistroDatosFamiliarez.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistroDatosPersonal.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaGeneralPersonalPorSede.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaGneralPersonal.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaPersonaIndividual.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaPersonalPorUnidad.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmEstaturaPersonal.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorEdad.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorEmpresa.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorFechaIngreso.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorSede.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorUnidad.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmReporteGenrenalPersonal.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmTurnoEmpleado.resources
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\pl_Gurkas.exe.config
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\pl_Gurkas.exe
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\pl_Gurkas.pdb
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\stdole.dll
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.CopyComplete
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.exe
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.pdb
+C:\Users\user\Desktop\Nuevo Sistema\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.datosplame.xmlPlame.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\stdole.dll
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCorreccionAsistencia.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmRenganchePersonal.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmTardanza.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmAsistenciadePersonal.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmAsistenciaDePersonalDetallado.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmPersonalSinMarcacion.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmPersonalsistenciaporDia.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.fmrConsultaDeAsistenciaPorPersonal.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmAsistenciaDetalladoPorEmpleado.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmConsultaDeCantidadDeAsistenciaDeCadaSede.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmReportedeMarcacionpoFecahYturno.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmAsistenciaPersonal.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmAsistenciaPersonalDetallado.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmConusltaAsistenciaPersonal.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmDetalleEmpleado.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.ReporteOperaciones.frmConsultadeAsistenciaPersonal.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.Sede.frmSede.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.Unidad.frmActivarUnidad.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.PantallaInicio.frmPantallaPrincipal.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmActualizarComisionAFP.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmAFPFlujo.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmAFPMixta.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.BANCO.frmMacroBanco.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmCargaDeDatosAsistencia.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmCargaDeDatosPlanillaDescuentos.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmPersonalNoRegistrado.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.datosplame.xmlPlame.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmActualizarDatosLaboralesPlanilla.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmBoletaPago.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmCalculoDeDescansoMedico.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmCalculoDeOtrasLicencia.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmCalculoDeVacaciones.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmPlataformaCalculoPlanilla.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmRegistrarDatosLaborales.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialDescansoMedico.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialOtrasLicencias.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialPlanillaDiasLaborados.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialPlanillaVacaciones.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.MensajeConfirmacion.frmGuardarPlanilla.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.Plame.frmPlataformaPlame.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmBajasPersonal.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmDatosGeneralesPlanilla.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmHistorialDatosEmpleado.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmReporteAsistenciaPersonal.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmActualizarEstadoPersonal.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmMoverEmpresa.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistrarDatosLaboralesRRHH.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistroDatosFamiliarez.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaGeneralPersonalPorSede.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaGneralPersonal.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaPersonalPorUnidad.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmEstaturaPersonal.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorUnidad.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmReporteGenrenalPersonal.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmTurnoEmpleado.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.CopyComplete
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.Reporte.frmReportePersonal.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Sucamec.frmPersonalConsulta.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GuardarPlanilla.frmDatosPlanillaExcel.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GuardarPlanilla.frmGuardarPlanilla.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GuardarPlanilla.frmMesAnioPlanilla.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.exe.config
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.exe.manifest
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.application
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.exe
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.pdb
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\GRUPO GURKAS.exe.manifest
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\GRUPO GURKAS.application
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\GRUPO GURKAS.exe
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\GRUPO GURKAS.pdb
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.CargaDeDatos.frmBloqueosPersonal.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.Bloqueos.frmCuadroDeBloqueos.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.ReporteOperaciones.frmEstadoPersonal.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmPagoTurnosEmpleados.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmBloqueosPersonal.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Andorid.frmAsistenciAndroid.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.SueldoEmpleado.frmSueldoEmpleado.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.CargaDatos.frmCargaDatosIngresantesPlanillas.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CTS.frmCargaDeDatosCTS.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.entrada.HistorialEntradaProducto.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.producto.frmNuevoProducto.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.salida.frmBuscarSalidaProducto.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.salida.frmHistorialSalidaProducto.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.salida.frmSalidaDeProducto.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.entrada.frmBuscarEntradaProducto.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.entrada.frmEntradaProducto.resources
+C:\Users\user\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.Proveedores.frmRegistrarProveedor.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.exe.config
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.exe.manifest
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.application
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.exe
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.pdb
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.AssemblyReference.cache
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Form1.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Properties.Resources.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmActualizarEmpleado.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmAsignarUnidadUsuario.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCambioContraseña.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCorreccionAsistencia.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCreacionUsuario.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Andorid.frmAsistenciAndroid.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.CargaDeDatos.frmBloqueosPersonal.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmAsistenciaPersonal.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmRenganchePersonal.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmTardanza.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmAsistenciadePersonal.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmAsistenciaDePersonalDetallado.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmPersonalSinMarcacion.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmPersonalsistenciaporDia.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.fmrConsultaDeAsistenciaPorPersonal.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmAsistenciaDetalladoPorEmpleado.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmBloqueosPersonal.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmConsultaDeCantidadDeAsistenciaDeCadaSede.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmReportedeMarcacionpoFecahYturno.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.frmCreacionSedes.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.frmCreacionUnidad.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmAsistenciaPersonal.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmAsistenciaPersonalDetallado.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmConusltaAsistenciaPersonal.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmDetalleEmpleado.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.frmLogin.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.entrada.frmBuscarEntradaProducto.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.entrada.frmEntradaProducto.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.entrada.HistorialEntradaProducto.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.producto.frmNuevoProducto.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.Proveedores.frmRegistrarProveedor.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.Reporte.frmReportePersonal.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.salida.frmBuscarSalidaProducto.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.salida.frmHistorialSalidaProducto.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.salida.frmSalidaDeProducto.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.MensajeEmergente.DialogForm.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.ReporteOperaciones.frmConsultadeAsistenciaPersonal.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.ReporteOperaciones.frmEstadoPersonal.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.Sede.frmSede.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.Unidad.frmActivarUnidad.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.PantallaInicio.frmPantallaPrincipal.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmActualizarComisionAFP.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmAFPFlujo.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmAFPMixta.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.BANCO.frmMacroBanco.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.Bloqueos.frmCuadroDeBloqueos.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmCargaDeDatosAsistencia.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmCargaDeDatosPlanillaDescuentos.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmPersonalNoRegistrado.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CTS.frmCalculoCTS.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CTS.frmCargaDeDatosCTS.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.datosplame.xmlPlame.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmActualizarDatosLaboralesPlanilla.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmBoletaPago.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmCalculoDeDescansoMedico.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmCalculoDeOtrasLicencia.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmCalculoDeVacaciones.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmPlataformaCalculoPlanilla.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmRegistrarDatosLaborales.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GuardarPlanilla.frmDatosPlanillaExcel.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GuardarPlanilla.frmGuardarPlanilla.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GuardarPlanilla.frmMesAnioPlanilla.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialDescansoMedico.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialOtrasLicencias.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialPlanillaDiasLaborados.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialPlanillaVacaciones.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.MensajeConfirmacion.frmGuardarPlanilla.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.Plame.frmPlataformaPlame.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmBajasPersonal.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmDatosGeneralesPlanilla.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmHistorialDatosEmpleado.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmPagoTurnosEmpleados.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmReporteAsistenciaPersonal.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.SueldoEmpleado.frmSueldoEmpleado.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincipalConsorcioGurkas.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincipalGrupoGurkas.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.CargaDatos.frmCargaDatosIngresantesPlanillas.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmActualizarEstadoPersonal.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmMoverEmpresa.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistrarDatosLaboralesRRHH.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistroDatosFamiliarez.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistroDatosPersonal.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaGeneralPersonalPorSede.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaGneralPersonal.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaPersonaIndividual.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaPersonalPorUnidad.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmEstaturaPersonal.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorEdad.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorEmpresa.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorFechaIngreso.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorSede.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorUnidad.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmReporteGenrenalPersonal.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmTurnoEmpleado.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Sucamec.frmPersonalConsulta.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.GenerateResource.cache
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.CoreCompileInputs.cache
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\GRUPO GURKAS.exe.manifest
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\GRUPO GURKAS.application
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.CopyComplete
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\GRUPO GURKAS.exe
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\GRUPO GURKAS.pdb
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CTS.frmGuardarCTS.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GRATIFICACION.frmGuardarGrati.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GRATIFICACION.frmCalculoGrati.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GRATIFICACION.frmaniomesgrati.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialCTS.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialGrati.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmContrasena.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincialAdministrador.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.exe.config
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.exe.manifest
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.application
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.exe
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.pdb
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Form1.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Properties.Resources.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmActualizarEmpleado.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmAsignarUnidadUsuario.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCambioContraseña.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmContrasena.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCorreccionAsistencia.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCreacionUsuario.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Andorid.frmAsistenciAndroid.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.CargaDeDatos.frmBloqueosPersonal.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmAsistenciaPersonal.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmRenganchePersonal.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmTardanza.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmAsistenciadePersonal.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmAsistenciaDePersonalDetallado.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmPersonalSinMarcacion.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmPersonalsistenciaporDia.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.fmrConsultaDeAsistenciaPorPersonal.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmAsistenciaDetalladoPorEmpleado.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmBloqueosPersonal.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmConsultaDeCantidadDeAsistenciaDeCadaSede.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmReportedeMarcacionpoFecahYturno.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.frmCreacionSedes.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.frmCreacionUnidad.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmAsistenciaPersonal.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmAsistenciaPersonalDetallado.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmConusltaAsistenciaPersonal.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmDetalleEmpleado.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.frmLogin.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.entrada.frmBuscarEntradaProducto.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.entrada.frmEntradaProducto.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.entrada.HistorialEntradaProducto.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.producto.frmNuevoProducto.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.Proveedores.frmRegistrarProveedor.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.Reporte.frmReportePersonal.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.salida.frmBuscarSalidaProducto.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.salida.frmHistorialSalidaProducto.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.salida.frmSalidaDeProducto.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.MensajeEmergente.DialogForm.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.ReporteOperaciones.frmConsultadeAsistenciaPersonal.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.ReporteOperaciones.frmEstadoPersonal.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.Sede.frmSede.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.Unidad.frmActivarUnidad.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.PantallaInicio.frmPantallaPrincipal.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmActualizarComisionAFP.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmAFPFlujo.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmAFPMixta.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.BANCO.frmMacroBanco.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.Bloqueos.frmCuadroDeBloqueos.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmCargaDeDatosAsistencia.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmCargaDeDatosPlanillaDescuentos.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmPersonalNoRegistrado.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CTS.frmCalculoCTS.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CTS.frmCargaDeDatosCTS.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CTS.frmGuardarCTS.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.datosplame.xmlPlame.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmActualizarDatosLaboralesPlanilla.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmBoletaPago.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmCalculoDeDescansoMedico.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmCalculoDeOtrasLicencia.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmCalculoDeVacaciones.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmPlataformaCalculoPlanilla.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmRegistrarDatosLaborales.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GRATIFICACION.frmaniomesgrati.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GRATIFICACION.frmCalculoGrati.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GRATIFICACION.frmGuardarGrati.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GuardarPlanilla.frmDatosPlanillaExcel.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GuardarPlanilla.frmGuardarPlanilla.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GuardarPlanilla.frmMesAnioPlanilla.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialCTS.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialDescansoMedico.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialGrati.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialOtrasLicencias.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialPlanillaDiasLaborados.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialPlanillaVacaciones.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.MensajeConfirmacion.frmGuardarPlanilla.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.Plame.frmPlataformaPlame.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmBajasPersonal.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmDatosGeneralesPlanilla.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmHistorialDatosEmpleado.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmPagoTurnosEmpleados.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmReporteAsistenciaPersonal.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.SueldoEmpleado.frmSueldoEmpleado.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincialAdministrador.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincipalConsorcioGurkas.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincipalGrupoGurkas.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.CargaDatos.frmCargaDatosIngresantesPlanillas.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmActualizarEstadoPersonal.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmMoverEmpresa.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistrarDatosLaboralesRRHH.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistroDatosFamiliarez.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistroDatosPersonal.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaGeneralPersonalPorSede.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaGneralPersonal.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaPersonaIndividual.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaPersonalPorUnidad.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmEstaturaPersonal.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorEdad.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorEmpresa.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorFechaIngreso.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorSede.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorUnidad.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmReporteGenrenalPersonal.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmTurnoEmpleado.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Sucamec.frmPersonalConsulta.resources
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.GenerateResource.cache
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.CoreCompileInputs.cache
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\GRUPO GURKAS.exe.manifest
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\GRUPO GURKAS.application
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.CopyComplete
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\GRUPO GURKAS.exe
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\GRUPO GURKAS.pdb
+C:\Users\Soporte TI\Desktop\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.AssemblyReference.cache
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\BouncyCastle.Crypto.dll
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\Google.Protobuf.dll
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\K4os.Compression.LZ4.dll
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\K4os.Hash.xxHash.dll
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\MySql.Data.dll
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Buffers.dll
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Memory.dll
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Numerics.Vectors.dll
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\Ubiety.Dns.Core.dll
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\ZstdNet.dll
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\Google.Protobuf.pdb
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\Google.Protobuf.xml
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\K4os.Compression.LZ4.xml
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\K4os.Hash.xxHash.xml
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\MySql.Data.xml
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Buffers.xml
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Memory.xml
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Numerics.Vectors.xml
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\MySqlConnector.dll
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\MySqlConnector.xml
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\MySql.Data.EntityFramework.dll
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\MySql.Web.dll
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\MySql.Data.EntityFramework.xml
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\MySql.Web.xml
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.AssemblyReference.cache
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Form1.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Properties.Resources.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmActualizarEmpleado.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmAsignarUnidadUsuario.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCambioContraseña.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmContrasena.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCorreccionAsistencia.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCreacionUsuario.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Andorid.frmAsistenciAndroid.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.CargaDeDatos.frmBloqueosPersonal.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmAsistenciaPersonal.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmRenganchePersonal.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmTardanza.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmAsistenciadePersonal.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmAsistenciaDePersonalDetallado.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmPersonalSinMarcacion.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmPersonalsistenciaporDia.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.fmrConsultaDeAsistenciaPorPersonal.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmAsistenciaDetalladoPorEmpleado.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmBloqueosPersonal.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmConsultaDeCantidadDeAsistenciaDeCadaSede.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmReportedeMarcacionpoFecahYturno.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.frmCreacionSedes.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.frmCreacionUnidad.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmAsistenciaPersonal.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmAsistenciaPersonalDetallado.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmConusltaAsistenciaPersonal.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmDetalleEmpleado.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.frmLogin.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.entrada.frmBuscarEntradaProducto.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.entrada.frmEntradaProducto.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.entrada.HistorialEntradaProducto.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.producto.frmNuevoProducto.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.Proveedores.frmRegistrarProveedor.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.Reporte.frmReportePersonal.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.salida.frmBuscarSalidaProducto.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.salida.frmHistorialSalidaProducto.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.salida.frmSalidaDeProducto.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.MensajeEmergente.DialogForm.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.ReporteOperaciones.frmConsultadeAsistenciaPersonal.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.ReporteOperaciones.frmEstadoPersonal.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.Sede.frmSede.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.Unidad.frmActivarUnidad.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.PantallaInicio.frmPantallaPrincipal.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmActualizarComisionAFP.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmAFPFlujo.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmAFPMixta.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.BANCO.frmMacroBanco.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.Bloqueos.frmCuadroDeBloqueos.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmCargaDeDatosAsistencia.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmCargaDeDatosPlanillaDescuentos.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmPersonalNoRegistrado.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CTS.frmCalculoCTS.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CTS.frmCargaDeDatosCTS.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CTS.frmGuardarCTS.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.datosplame.xmlPlame.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmActualizarDatosLaboralesPlanilla.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmBoletaPago.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmCalculoDeDescansoMedico.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmCalculoDeOtrasLicencia.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmCalculoDeVacaciones.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmPlataformaCalculoPlanilla.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmRegistrarDatosLaborales.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GRATIFICACION.frmaniomesgrati.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GRATIFICACION.frmCalculoGrati.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GRATIFICACION.frmGuardarGrati.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GuardarPlanilla.frmDatosPlanillaExcel.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GuardarPlanilla.frmGuardarPlanilla.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GuardarPlanilla.frmMesAnioPlanilla.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialCTS.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialDescansoMedico.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialGrati.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialOtrasLicencias.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialPlanillaDiasLaborados.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialPlanillaVacaciones.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.MensajeConfirmacion.frmGuardarPlanilla.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.Plame.frmPlataformaPlame.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmBajasPersonal.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmDatosGeneralesPlanilla.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmHistorialDatosEmpleado.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmPagoTurnosEmpleados.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmReporteAsistenciaPersonal.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.SueldoEmpleado.frmSueldoEmpleado.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincialAdministrador.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincipalConsorcioGurkas.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincipalGrupoGurkas.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.CargaDatos.frmCargaDatosIngresantesPlanillas.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmActualizarEstadoPersonal.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmMoverEmpresa.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistrarDatosLaboralesRRHH.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistroDatosFamiliarez.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistroDatosPersonal.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaGeneralPersonalPorSede.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaGneralPersonal.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaPersonaIndividual.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaPersonalPorUnidad.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmEstaturaPersonal.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorEdad.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorEmpresa.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorFechaIngreso.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorSede.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorUnidad.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmReporteGenrenalPersonal.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmTurnoEmpleado.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Sucamec.frmPersonalConsulta.resources
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.GenerateResource.cache
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\GRUPO GURKAS.exe
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\GRUPO GURKAS.pdb
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.exe.config
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.exe.manifest
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.application
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.exe
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.pdb
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\Google.Protobuf.dll
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\MySql.Data.dll
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\MySql.Web.dll
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\MySqlConnector.dll
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Buffers.dll
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Memory.dll
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\ZstdNet.dll
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\Google.Protobuf.pdb
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\Google.Protobuf.xml
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\MySql.Data.xml
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\MySql.Web.xml
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\MySqlConnector.xml
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Buffers.xml
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Memory.xml
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\GRUPO GURKAS.exe.manifest
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\GRUPO GURKAS.application
+C:\Users\jerem\Desktop\GURKAS\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.CopyComplete
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.Postulante.frmPostulante.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.ReporteOperaciones.frmReportePersonalGeneral.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Contabilidad.frmPlanillaCompletaContabilidadResumen.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.Android.frmMigrarAndroidAsistencia.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.exe.config
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.exe.manifest
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.application
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.exe
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\GRUPO GURKAS.pdb
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\Google.Protobuf.dll
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\MySql.Data.dll
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\MySql.Web.dll
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\MySqlConnector.dll
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Buffers.dll
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Memory.dll
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\ZstdNet.dll
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\Google.Protobuf.pdb
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\Google.Protobuf.xml
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\MySql.Data.xml
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\MySql.Web.xml
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\MySqlConnector.xml
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Buffers.xml
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Memory.xml
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.AssemblyReference.cache
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Form1.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Properties.Resources.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmActualizarEmpleado.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmAsignarUnidadUsuario.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCambioContraseña.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmContrasena.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCorreccionAsistencia.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Administrador.frmCreacionUsuario.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Andorid.frmAsistenciAndroid.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.Android.frmMigrarAndroidAsistencia.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.CargaDeDatos.frmBloqueosPersonal.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmAsistenciaPersonal.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmRenganchePersonal.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.frmTardanza.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmAsistenciadePersonal.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmAsistenciaDePersonalDetallado.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmPersonalSinMarcacion.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteAsistencia.frmPersonalsistenciaporDia.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.fmrConsultaDeAsistenciaPorPersonal.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmAsistenciaDetalladoPorEmpleado.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmBloqueosPersonal.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmConsultaDeCantidadDeAsistenciaDeCadaSede.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.CentroControl.ReporteCentroControl.frmReportedeMarcacionpoFecahYturno.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.frmCreacionSedes.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.frmCreacionUnidad.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmAsistenciaPersonal.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmAsistenciaPersonalDetallado.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmConusltaAsistenciaPersonal.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Comercial.ReporteComercial.frmDetalleEmpleado.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Contabilidad.frmPlanillaCompletaContabilidadResumen.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.frmLogin.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.entrada.frmBuscarEntradaProducto.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.entrada.frmEntradaProducto.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.entrada.HistorialEntradaProducto.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.producto.frmNuevoProducto.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.Proveedores.frmRegistrarProveedor.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.Reporte.frmReportePersonal.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.salida.frmBuscarSalidaProducto.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.salida.frmHistorialSalidaProducto.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Logistica.salida.frmSalidaDeProducto.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.MensajeEmergente.DialogForm.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.ReporteOperaciones.frmConsultadeAsistenciaPersonal.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.ReporteOperaciones.frmEstadoPersonal.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.ReporteOperaciones.frmReportePersonalGeneral.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.Sede.frmSede.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Operaciones.Unidad.frmActivarUnidad.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.PantallaInicio.frmPantallaPrincipal.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmActualizarComisionAFP.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmAFPFlujo.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.AFP.frmAFPMixta.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.BANCO.frmMacroBanco.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.Bloqueos.frmCuadroDeBloqueos.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmCargaDeDatosAsistencia.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmCargaDeDatosPlanillaDescuentos.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CargaDeDatos.frmPersonalNoRegistrado.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CTS.frmCalculoCTS.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CTS.frmCargaDeDatosCTS.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.CTS.frmGuardarCTS.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.datosplame.xmlPlame.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmActualizarDatosLaboralesPlanilla.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmBoletaPago.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmCalculoDeDescansoMedico.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmCalculoDeOtrasLicencia.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmCalculoDeVacaciones.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmPlataformaCalculoPlanilla.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.frmRegistrarDatosLaborales.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GRATIFICACION.frmaniomesgrati.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GRATIFICACION.frmCalculoGrati.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GRATIFICACION.frmGuardarGrati.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GuardarPlanilla.frmDatosPlanillaExcel.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GuardarPlanilla.frmGuardarPlanilla.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.GuardarPlanilla.frmMesAnioPlanilla.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialCTS.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialDescansoMedico.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialGrati.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialOtrasLicencias.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialPlanillaDiasLaborados.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.HistorialPlanilla.frmHistorialPlanillaVacaciones.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.MensajeConfirmacion.frmGuardarPlanilla.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.Plame.frmPlataformaPlame.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmBajasPersonal.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmDatosGeneralesPlanilla.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmHistorialDatosEmpleado.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmPagoTurnosEmpleados.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.ReportePlanilla.frmReporteAsistenciaPersonal.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Planilla.SueldoEmpleado.frmSueldoEmpleado.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincialAdministrador.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincipalConsorcioGurkas.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Principal.frmPrincipalGrupoGurkas.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.CargaDatos.frmCargaDatosIngresantesPlanillas.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmActualizarEstadoPersonal.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmMoverEmpresa.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistrarDatosLaboralesRRHH.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistroDatosFamiliarez.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmRegistroDatosPersonal.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.Postulante.frmPostulante.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaGeneralPersonalPorSede.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaGneralPersonal.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaPersonaIndividual.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmAsistenciaPersonalPorUnidad.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmEstaturaPersonal.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorEdad.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorEmpresa.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorFechaIngreso.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorSede.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmPersonalPorUnidad.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmReporteGenrenalPersonal.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.ReportesRRHH.frmTurnoEmpleado.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.RRHHC4.frmRegistroC4.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.Sucamec.frmPersonalConsulta.resources
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.GenerateResource.cache
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\GRUPO GURKAS.exe.manifest
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\GRUPO GURKAS.application
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.csproj.CopyComplete
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\GRUPO GURKAS.exe
+C:\Users\jerem\Desktop\gurkas_ultimo\escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\GRUPO GURKAS.pdb
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.frmReporteRRHHPersonalActivo.resources
+D:\GURKAS_DESARROLLO\Escritorio\GURKAS\sln_Gurkas\pl_Gurkas\obj\Debug\pl_Gurkas.Vista.RRHH.RRHHC4.frmRegistroC4.resources
